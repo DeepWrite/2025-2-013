@@ -1,5 +1,5 @@
 ---
-title: 과제02
+title: 과제-02
 layout: home
 nav_order: 3
 permalink: /ass-02/
