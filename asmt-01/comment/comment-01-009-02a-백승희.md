@@ -2,7 +2,7 @@
 title: 009-02 백승희의 코멘트a (과제-01)
 layout: home
 nav_order: 2
-parent: 009-10 박수한  (과제-01)
+parent: 009-10 박수한 (과제-01)
 permalink: /asmt-01/009-10/comment-009-02
 ---
 
