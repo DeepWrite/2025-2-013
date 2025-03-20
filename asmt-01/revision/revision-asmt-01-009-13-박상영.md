@@ -1,12 +1,12 @@
 ---
-title: 009-13 박상영 (과제-01)
+title: (개선) 과제-01 요약 연습 009-13 박상영 다른 양식 사용
 layout: home
-nav_order: 13
-parent: 과제-01 요약 연습
-permalink: /asmt-01/009-13
+nav_order: 99
+parent: 009-13 박상영 (과제-01)
+permalink: /asmt-01/009-13/revision
 ---
 
-# 과제-01 요약 연습 009-13 박상영 
+# (개선) 과제-01 요약 연습 009-13 박상영 
 
 ## 대상 문헌  
 **제목**: Second Treatise, ch.5  
