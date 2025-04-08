@@ -1,7 +1,7 @@
 ---
 title: 009-08 이서진의 코멘트c (과제-03) 
 layout: home
-nav_order: 08
+nav_order: 8
 parent: 009-12 황해리 (과제-03)
 permalink: /asmt-03/009-12/comment-009-08
 ---

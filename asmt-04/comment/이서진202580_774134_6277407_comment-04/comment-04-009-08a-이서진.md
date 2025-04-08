@@ -1,7 +1,7 @@
 ---
 title: 009-08 이서진의 코멘트a (과제-04) 
 layout: home
-nav_order: 08
+nav_order: 8
 parent: 009-14 박준혁 (과제-04)
 permalink: /asmt-04/009-14/comment-009-08
 ---

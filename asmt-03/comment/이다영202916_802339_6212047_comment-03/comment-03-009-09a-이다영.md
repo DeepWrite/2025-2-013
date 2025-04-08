@@ -1,7 +1,7 @@
 ---
 title: 009-09 이다영의 코멘트a (과제-03) 
 layout: home
-nav_order: 09
+nav_order: 9
 parent: 009-13 박상영 (과제-03)
 permalink: /asmt-03/009-13/comment-009-09
 ---
