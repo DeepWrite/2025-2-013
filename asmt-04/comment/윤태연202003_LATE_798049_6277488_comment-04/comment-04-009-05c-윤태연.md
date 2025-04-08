@@ -3,7 +3,7 @@ title: 009-05 윤태연의 코멘트c (과제-04)
 layout: home
 nav_order: 05
 parent: 009-15 최호열 (과제-04)
-permalink: /asmt-04/009-31/comment-009-05
+permalink: /asmt-04/009-15/comment-009-05
 ---
 
 # 과제-04 5-6단락 논증에세이에 대한 코멘트
