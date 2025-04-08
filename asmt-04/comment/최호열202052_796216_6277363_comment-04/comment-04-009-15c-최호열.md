@@ -2,7 +2,7 @@
 title: 009-15 최호열의 코멘트a (과제-04) 
 layout: home
 nav_order: 15
-parent: 009-09 이다영  (과제-04)
+parent: 009-09 이다영 (과제-04)
 permalink: /asmt-04/009-09/comment-009-15
 ---
 
