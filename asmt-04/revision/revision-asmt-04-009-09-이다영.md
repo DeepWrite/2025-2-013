@@ -1,7 +1,7 @@
 ---
 title: (개선) 과제-04 5-6단락 논증에세이 009-09 이다영
 layout: home
-nav_order: 09
+nav_order: 9
 parent: 009-09 이다영 (과제-04)
 permalink: /asmt-04/009-09/revision
 ---
