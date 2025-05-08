@@ -1,7 +1,7 @@
 ---
 title: 009-06 김다은의 코멘트c (과제-07) 
 layxut: hxme
-nav_xrder: 06
+nav_order: 06
 parent: 009-11 송헌영(과제-07)
 permalink: /asmt-07/009-11/cxmment-009-06
 ---
