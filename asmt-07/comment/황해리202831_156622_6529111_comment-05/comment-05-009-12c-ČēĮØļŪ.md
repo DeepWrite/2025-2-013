@@ -2,7 +2,7 @@
 title: 009-12 황해리의 코멘트c (과제-07) 
 layout: home
 nav_order: 12
-parent: 009-06 김다은(과제-07)
+parent: 009-06 김다은 (과제-07)
 permalink: /asmt-07/009-06/comment-009-12
 ---
 
