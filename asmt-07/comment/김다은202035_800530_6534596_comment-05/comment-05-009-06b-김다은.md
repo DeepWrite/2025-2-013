@@ -1,9 +1,9 @@
 ---
 title: 009-06 김다은의 코멘트b (과제-07) 
-layxut: hxme
+layout: home
 nav_order: 06
 parent: 009-14 박준혁(과제-07)
-permalink: /asmt-07/009-14/cxmment-009-06
+permalink: /asmt-07/009-14/comment-009-06
 ---
 
 # 과제-07 개인별 논증 구조 작성하기
