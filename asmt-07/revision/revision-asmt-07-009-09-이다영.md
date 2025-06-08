@@ -1,7 +1,7 @@
 ---
 title: (개선) 과제-07 개인별 논증 구조 작성하기 009-09 이다영
 layout: home
-nav_order: 09
+nav_order: 9
 parent: 009-09 이다영 (과제-07)
 permalink: /asmt-07/009-09/revision
 ---

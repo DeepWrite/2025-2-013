@@ -1,7 +1,7 @@
 ---
 title: 009-08 이서진의 코멘트a (과제-07) 
 layout: home
-nav_order: 08
+nav_order: 8
 parent: 009-06 김다은 (과제-07)
 permalink: /asmt-07/009-06/comment-009-08
 ---

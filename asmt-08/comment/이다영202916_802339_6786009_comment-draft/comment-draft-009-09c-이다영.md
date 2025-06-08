@@ -1,7 +1,7 @@
 ---
 title: 009-09 이다영의 코멘트c (과제-08) 
 layout: home
-nav_order: 09
+nav_order: 9
 parent: 009-07 조세현 (과제-08)
 permalink: /asmt-08/009-07/comment-009-09
 ---
