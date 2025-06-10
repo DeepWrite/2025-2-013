@@ -1,9 +1,9 @@
 ---
 title: 009-06 김다은의 코멘트c (과제-08) 
 layout: home
-nav_order: 33
-parent: 009-08 R-이서진 (과제-08)
-permalink: /asmt-08/009-08/comment-009-08
+nav_order: 06
+parent: 009-08 이서진 (과제-08)
+permalink: /asmt-08/009-08/comment-009-06
 ---
 
 # 과제-08 기말과제 초고 작성하기
