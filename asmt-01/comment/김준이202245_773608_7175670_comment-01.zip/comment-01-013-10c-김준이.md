@@ -3,7 +3,7 @@ title: 013-10 김준이의 코멘트c (과제-01)
 layout: home
 nav_order: 10
 parent: 013-22 장종윤 (과제-01)
-permalink: /asmt-01/013-31/comment-013-10
+permalink: /asmt-01/013-22/comment-013-10
 ---
 
 # 과제-01 요약 연습에 대한 코멘트
