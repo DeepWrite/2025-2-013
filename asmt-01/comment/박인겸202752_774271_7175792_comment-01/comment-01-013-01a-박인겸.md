@@ -1,10 +1,10 @@
-—
+---
 title: 013-01 박인겸의 코멘트a (과제-01) 
 layout: home
 nav_order: 01
 parent: 013-05 김무성 (과제-01)
 permalink: /asmt-01/013-05/comment-013-01
-—
+---
 
 # 과제-01 요약 연습에 대한 코멘트
 
