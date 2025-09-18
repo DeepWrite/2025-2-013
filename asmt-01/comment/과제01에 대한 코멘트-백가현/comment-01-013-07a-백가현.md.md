@@ -1,7 +1,7 @@
 ---
 title: 013-11 백가현의 코멘트a (과제-01) 
 layout: home
-nav_order: 07
+nav_order: 7
 parent: 013-11 이재호 (과제-01)
 permalink: /asmt-01/013-11/comment-013-11
 ---

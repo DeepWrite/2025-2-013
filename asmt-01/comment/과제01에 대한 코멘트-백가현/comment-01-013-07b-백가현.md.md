@@ -1,7 +1,7 @@
 ---
 title: 013-15 백가현의 코멘트b (과제-01) 
 layout: home
-nav_order: 07
+nav_order: 7
 parent: 013-15 서윤진 (과제-01)
 permalink: /asmt-01/013-15/comment-013-07
 ---

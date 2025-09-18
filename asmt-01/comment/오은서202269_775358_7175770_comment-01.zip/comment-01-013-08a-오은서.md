@@ -1,7 +1,7 @@
 ---
 title: 013-08 오은서의 코멘트a (과제-01) 
 layout: home
-nav_order: 08
+nav_order: 8
 parent: 013-12 강지운 (과제-01)
 permalink: /asmt-01/013-12/aomment-013-08
 ---

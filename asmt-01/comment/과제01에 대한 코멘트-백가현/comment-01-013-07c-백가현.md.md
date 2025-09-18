@@ -1,7 +1,7 @@
 ---
 title: 013-19 백가현의 코멘트c (과제-01) 
 layout: home
-nav_order: 07
+nav_order: 7
 parent: 013-19 권지우 (과제-01)
 permalink: /asmt-01/013-19/comment-013-07
 ---
