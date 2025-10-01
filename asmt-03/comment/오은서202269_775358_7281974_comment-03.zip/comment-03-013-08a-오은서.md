@@ -1,7 +1,7 @@
 ---
 title: 013-08 오은서의 코멘트a (과제-03) 
 layout: home
-nav_order: 08
+nav_order: 8
 parent: 013-04 김민준 (과제-03)
 permalink: /asmt-03/013-04/comment-013-08
 ---

@@ -1,7 +1,7 @@
 ---
 title: 013-07 백가현의 코멘트a (과제-03) 
 layout: home
-nav_order: 07
+nav_order: 7
 parent: 013-03 이도윤 (과제-03)
 permalink: /asmt-03/013-03/comment-013-07
 ---
