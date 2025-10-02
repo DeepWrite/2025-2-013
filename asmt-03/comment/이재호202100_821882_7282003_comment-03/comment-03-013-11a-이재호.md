@@ -3,7 +3,7 @@ title: 013-11 이재호의 코멘트a (과제-03)
 layout: home
 nav_order: 11
 parent: 013-03 이도윤 (과제-03)
-permalink: /asmt-03/013-11/comment-013-03
+permalink: /asmt-03/013-03/comment-013-11
 ---
 
 # 과제-03 쟁점과 딜레마 분석에 대한 코멘트
