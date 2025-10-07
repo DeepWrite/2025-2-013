@@ -1,7 +1,7 @@
 ---
 title: 013-09 조서영의 코멘트b (과제-04) 
 layout: home
-nav_order: 09
+nav_order: 9
 parent: 013-13 윤현철 (과제-04)
 permalink: /asmt-04/013-13/comment-013-09
 ---
