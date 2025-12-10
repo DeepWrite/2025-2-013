@@ -1,7 +1,7 @@
 ---
 title: 013-07 백가현의 코멘트b (과제-07) 
 layout: home
-nav_order: 07
+nav_order: 7
 parent: 013-09 조서영 (과제-07)
 permalink: /asmt-07/013-09/comment-013-07
 ---
